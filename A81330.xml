@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Darby's speech on the scaffold, immediately before his execution at Bolton in Lancashire, on Wednesday, October 15. 1651. Exactly taken in short-hand, as it was spoken; and now published for the satisfaction of those that desire to be truly informed.</title>
+            <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+         </titleStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81330</idno><idno type="EEBO-CITATION">99865212</idno>
+  <idno type="VID">165961</idno>
+  <idno type="EEBO-PROQUEST">2240912062</idno>
+  
+            <idno type="STC">Wing D1093</idno>
+            <idno type="STC">Thomason E643_12</idno>
+            <idno type="STC">ESTC R206004</idno>
+            <idno type="PROQUEST">99865212</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865212e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165961)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E643[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Darby's speech on the scaffold, immediately before his execution at Bolton in Lancashire, on Wednesday, October 15. 1651. Exactly taken in short-hand, as it was spoken; and now published for the satisfaction of those that desire to be truly informed.</title>
+                  <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Brooks, and are to be sold at his shop at the sign of the Angel in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term type="topical_term">Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term type="topical_term">Last words --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165961:1"/>
+            <p>THE Earle of Darbys SPEECH ON THE SCAFFOLD, Immediately before his Execution at Bolton in Lancashire, on We<g ref="char:EOLhyphen"/>nesday, October 15. 1651.</p>
+            <p>Exactly taken in Short-hand, as it was spoken; and now published for the satisfaction of those that desire to be truly informed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathaniel Brooks,</hi> and are to be sold at his shop at the sign of the <hi>Angel</hi> in <hi>Cornhil.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:165961:2"/>
+            <pb n="3" facs="tcp:165961:2"/>
+            <p>THe Earl of Darby was brought to <hi>Bol<g ref="char:EOLhyphen"/>ton</hi> on Wednesday last about noon, his guard being sixty Foot and eighty horse; about two of the clock brought forth to the Scaffold, which was built at the Cross, part of that built with the timber of his own house of Latham: there was not above an hundred lookers on, besides Soldiers: pre<g ref="char:EOLhyphen"/>sently after his coming upon the Scaffold there happened a great tumult (the occasion where<g ref="char:EOLhyphen"/>of not being certainly known;) In appeasing of which there were some cut, many hurt, and one childe killed. The Earl was no good Ora<g ref="char:EOLhyphen"/>tor, and the tumult put him out of speaking what he intended: he was much afraid of be<g ref="char:EOLhyphen"/>ing reviled by the people of the town, but they rather pitied his condition: his Son came with him to Bolton, and carryed his Corps back that night to Wiggan.</p>
+         </div>
+         <div type="speech">
+            <pb n="4" facs="tcp:165961:3"/>
+            <head>The Last Words of the Earl of Derby UPON The Scaffold at <hi>Bolton,</hi> the fifteenth day of <hi>October.</hi> 1651.</head>
+            <p>COming to the foot of the Ladder, to the Scaf<g ref="char:EOLhyphen"/>fold, he said, I am thus requited for my love, and he kissed the Ladder, and said, I do sub<g ref="char:EOLhyphen"/>mit my self to the Mercy of God; and when he was upon the Scaffold, he said, Now that it pleaseth God to take away my life, I am glad to see, that in this Town, where some were made believe I was a man of Blood, I was sl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndered to be the death of many: It was my desire the last time I came into this Country, to come hither as to a people that ought to serve the King as I conceive upon good grounds: It was said, that I was accustomed to be a Man of Blood; but it doth not lie upon my Conscience, for I was wrongfully be<g ref="char:EOLhyphen"/>ly'd: I thank God I desire Peace. I was born in Ho<g ref="char:EOLhyphen"/>nour, and I hope shall dye in Honor: I had a fair E<g ref="char:EOLhyphen"/>state, and did not need to mend it; I had good Friends, and was respected, and did respect; they were ready to
+<pb n="5" facs="tcp:165961:3"/>do for me, and I was ready to do for them; I have done nothing but, as my Ancestors, to do you good; It was the King that called me in, and I thought it my duty to wait upon his Highness to do him Service. Then there arose a great Tumult among the people; after which he said (looking all about him,) I thought to have said more, but I have said; I cannot say much more to you of my good will to this Town of <hi>Bolton,</hi> and I can say no more, but the Lord bless you, I forgive you all, and desire to be fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>given of you all, for I put my trust in Jesus Christ. And looking about him, he said, I did never deserve this hard measure from above. Honest Friends (you that are Souldiers) my life is taken away after Quarter given, by a Councel of War, which was never done before. And walking up and down the Scaffold, he said, The Lord bless you all; the Son of God bless you all of this Town of <hi>Bolton, Manchester,</hi> and especially <hi>Lancashire;</hi> and God send that you may have a King again, and Laws: I dye like a Christian, a Souldier, and Christs Souldier. And sitting down in his Chair, he said to a Souldier that had been his Keeper, They are not ready (meaning the Block was not ready,) and bade him commend him to all his Friends in <hi>Chester,</hi> and tell them I dye like a Souldier. And causing the Coffin to be opened, he said, I hope when I am imprisoned in this, the Watch<g ref="char:EOLhyphen"/>men will not lie by me with their swords. And walk<g ref="char:EOLhyphen"/>ing up and down the Scaffold, he look'd about him, and said, There is no man that revileth me, God be thanked. And looking upon them that were upon the Scaffold, he said, What do you stay for? it is hard that I cannot get a Block to have my Head cut off. He look<g ref="char:EOLhyphen"/>ing upon the Executioner, said, Thy Coat is too burly,
+<pb n="6" facs="tcp:165961:4"/>that thou canst not hit right, the Lord help thee and forgive thee. Then bowing to Mr <hi>Henry Bridgman,</hi> he said, They have brought me hither too soon, the Block is not ready for me: Mr <hi>Bridgman,</hi> tell your Brother, I take it as a great Mercy of God that <hi>I</hi> am brought hither, for I might have dyed in the midst of a Battel, and have not dyed so well, for now I have had time to make my peace with God. And turning him to <hi>James Roscow,</hi> one of the two Clerks that writ his Speech in Short-hand, he said, Do you write what I say? I may he I say not well, but my meaning is good. And looking upon the Block, he said to one of his men, Lay down your Neck upon the Block, and see how it will fit; but he refused: And a Trumpetter that was upon the Scaffold layd down his Neck to try how it would fit; after that he layd down his own Neck upon the Block, and rose up again, and caused the Block to be turned; and laying his Neck upon it again, he said, Do not strike yet: And when he rose up, he went about the Scaffold, and said, I desire your prayers, Pray for me; the Lord bless you all, the Lord bless this poor Nation. Then he gave his Handkerchiefs out of his two Pockets to his servants: Then he kneeled down, and prayed privately; and then layd down his Neck upon the Block, and said to the Executioner, When I lift up my hand, then give the Blow: And just when he gave the Sign, one of his servants said, Good my Lord, let me speak one word before: and looking up, he said, I have given you a sign, but you have ill miss'd it: And being upon his knees, he said, Honest Friends, I thank God I fear not death; I rejoyce to serve God, my King, and Country; I am sorry to leave some of my Christian Friends, but I hope the Lord will keep
+<pb n="7" facs="tcp:165961:4"/>them, and bless them: The Lord of Heaven bless my Wife and poor Children; the Lord bless his People, and my good King. And laying his Head upon the Block, he said, Blessed be Gods glorious Name for ever and ever, <hi>Amen:</hi> Let the whole Earth be filled with his Glory. And giving the last Sign, by holding up his hand, his Head was severed from his Body with one blow.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
